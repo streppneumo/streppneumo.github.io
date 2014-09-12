@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<!-- <h2>Pages</h2> -->
+<ul class="post-list">
+   {% for page in site.pages %}
+      {% if page.title %}
+         <li>
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+         </li>
+      {% endif %}
+   {% endfor %}
+</ul>
+
+<!-- 
+<h2>Posts</h2>
+<ul class="post-list">
+   {% for post in site.posts %}
+      <li>
+         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+         <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+   {% endfor %}
+</ul>
+-->
+
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>

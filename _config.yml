@@ -1,0 +1,19 @@
+# Site settings
+title: iSP&#58; the <i>Streptococcus pneumoniae</i> Modeling Project
+email: streppneumo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+   The iSP project is part of the van Opijnen lab at the Boston College
+   Biology Department.
+#   We are creating <i>in silico</i>, genome-scale models of the human
+#   pathogen <i>Streptococcus pneumoniae</i>.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  streppneumo
+
+# Build settings
+markdown: kramdown
+kramdown:
+   input: GFM
+highlighter: pygments
+
