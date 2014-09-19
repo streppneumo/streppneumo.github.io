@@ -5,11 +5,23 @@ title: Group Meeting Schedule
 
 # Group Meeting Schedule
 
-Date &nbsp;&nbsp;&nbsp;&nbsp; | Time &nbsp;&nbsp;&nbsp;&nbsp; | Presenter 
-:---- | :--- | :--- 
-9/12 | 10am | Paul      
-9/19 | 1pm  | Ryan/Amanda 
-9/26 | 10am |  
-10/3 | 1pm  | 
+## All meetings are from 8-9am in Higgins 465.
+
+Date &nbsp;&nbsp;&nbsp;&nbsp; | Presenter 
+:---- | :--- 
+9/12 | Paul      
+9/23 | Ryan/Amanda 
+9/30 |  
+10/7 | Karen/Wendy
+10/14 | Corey/Ryan
+10/21 | Sandra/Amanda
+10/28 | Emma/Margaret
+11/4 | Derek/Steve
+11/11 | 
+11/18 | 
+11/25 | 
+12/2 | 
+12/9 | 
+12/16 | 
 
 
