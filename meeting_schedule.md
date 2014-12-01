@@ -19,10 +19,10 @@ Date &nbsp;&nbsp;&nbsp;&nbsp; | Presenter
 11/4 | Emma/Margaret
 11/11 | Derek/Steve
 11/18 | Wendy, Corey/Ryan
-11/25 | Sandra/Amanda, Emma/Margaret
-12/2 | Karen, Derek/Steve
+11/25 | *No Meeting*
+12/2 | Sandra/Amanda, Emma/Margaret
 12/5 | **van Opijnen Lab Symposium** (Friday, 4-7pm)
-12/9 | 
-12/16 | 
+12/9 | Karen, Derek/Steve
+12/16 | Paul
 
 
